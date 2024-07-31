@@ -4,4 +4,3 @@ public class WordDocumentFactory extends DocumentFactory {
         return new WordDocument();
     }
 }
-
